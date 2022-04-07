@@ -1,0 +1,32 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-image:url( "./imagem/unnamed (2).jpg");
+ color:#ffff;
+
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+    
+  
+td{
+    text-align: center;
+}
+ table{
+    text-align: center;
+ }
+ tr:hover {background-color: rgb(164, 109, 216);}
+ button{background-color: rgb(153, 111, 201);
+color: #ffff;
+font-size: 15px;
+width:10%;
+height: 30%;}
+th, td {
+    padding: 15px;
+    text-align: left;
+  }
+  div{
+    margin: auto;
+      text-align: center;
+  }
